@@ -1,12 +1,12 @@
 # Sorting Visualizer
 A program that visualizes 6 different sorts. Has 18 different visualizations.
 #### Sorts
-Bubble Sort
-Insertion Sort
-Selection Sort
-Merge Sort
-Quicksort
-Radix Sort
+Bubble Sort\
+Insertion Sort\
+Selection Sort\
+Merge Sort\
+Quicksort\
+Radix Sort\
 ### Installation
 You must have Java 8 installed.
 ### Usage
