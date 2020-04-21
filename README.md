@@ -1,17 +1,17 @@
 # Sorting Visualizer
 A program that visualizes 6 different sorts. Has 18 different visualizations.
-#### Sorts
+### Sorts
 Bubble Sort\
 Insertion Sort\
 Selection Sort\
 Merge Sort\
 Quicksort\
 Radix Sort
-### Installation
+## Installation
 You must have Java 8 installed.
-### Usage
+## Usage
 If you have Java 8 installed, you can open VisualSort.jar, and the program will run.
 Press `space` to pause and `esc` to return to menu.
-### Compilation
+## Compilation
 If you have Java 8 installed, you can open VisualSort.java in an IDE of your choice.
 Press `space` to pause and `esc` to return to menu.
