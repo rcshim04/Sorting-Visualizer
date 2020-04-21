@@ -6,7 +6,7 @@ Insertion Sort\
 Selection Sort\
 Merge Sort\
 Quicksort\
-Radix Sort\
+Radix Sort
 ### Installation
 You must have Java 8 installed.
 ### Usage
